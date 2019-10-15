@@ -196,10 +196,17 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  text-align: center;
 }
 
 label {
   display: block;
+}
+main {
+background: #454C5C;
+}
+#input-email {
+color: #848B9B  
 }
 
 /* ===== LAYOUT STYLES ====== */
