@@ -210,14 +210,14 @@ h1 {
   padding-top: 20px;
   color: #192133;
   font-family: 'Abril Fatface', cursive;
-  font-size: 60px;
+  font-size: 70px;
 }
 
 p {
 padding-top: 35px;
 color: #192133;
 font-family: 'Josefin Sans', sans-serif;
-font-size: 25px;
+font-size: 30px;
 }
 
 #input-email {
@@ -237,7 +237,11 @@ label {
 }
   input[type=submit] {
     background: #848B9B;
-      font-family: 'Big Shoulders Text', cursive;
+    font-family: 'Big Shoulders Text', cursive;
+    border-style: inset;
+    border-color: #192133;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
   }
 /* ===== LAYOUT STYLES ====== */
 
