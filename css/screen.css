@@ -242,6 +242,9 @@ label {
     border-color: #192133;
     border-top-style: dotted;
     border-bottom-style: dotted;
+    padding: 10px;
+    font-size: 30px;
+    color: #192133;
   }
 /* ===== LAYOUT STYLES ====== */
 
