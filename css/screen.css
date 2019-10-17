@@ -246,6 +246,54 @@ label {
     font-size: 30px;
     color: #192133;
   }
+@media only screen and (max-width: 600px) {
+
+main {
+  background: #454C5C;
+  height: 700px
+}
+h1 {
+  padding-top: 20px;
+  color: #192133;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+  line-height: 45px;
+}
+
+p {
+padding-top: 35px;
+color: #192133;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 30px;
+}
+
+#input-email {
+padding-top: 40px;
+  color: #848B9B;
+  padding-bottom: 40px;
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 15px;
+}
+label {
+  color: #848B9B;
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 30px;
+}
+#input-submit {
+  padding-top: 40px;
+}
+  input[type=submit] {
+    background: #848B9B;
+    font-family: 'Big Shoulders Text', cursive;
+    border-style: inset;
+    border-color: #192133;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    padding: 10px;
+    font-size: 30px;
+    color: #192133;
+  }
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
