@@ -237,7 +237,7 @@ label {
 }
   input[type=submit] {
     background: #848B9B;
-    font-family: 'Big Shoulders Text', cursive;
+    font-family: 'Big Shoulders Text', serif, "Book Antiqua", cursive;
     border-style: inset;
     border-color: #192133;
     border-top-style: dotted;
@@ -255,7 +255,7 @@ main {
 h1 {
   padding-top: 20px;
   color: #192133;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'Abril Fatface',serif, "Book Antiqua", cursive;
   font-size: 50px;
   line-height: 45px;
 }
@@ -263,7 +263,7 @@ h1 {
 p {
 padding-top: 35px;
 color: #192133;
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Josefin Sans',"Times New Roman", "Book Antiqua", sans-serif;
 font-size: 30px;
 }
 
@@ -271,12 +271,12 @@ font-size: 30px;
 padding-top: 40px;
   color: #848B9B;
   padding-bottom: 40px;
-  font-family: 'Big Shoulders Text', cursive;
+  font-family: 'Big Shoulders Text', serif, "Book Antiqua", cursive;
   font-size: 15px;
 }
 label {
   color: #848B9B;
-  font-family: 'Big Shoulders Text', cursive;
+  font-family: 'Big Shoulders Text', serif, "Book Antiqua", cursive;
   font-size: 30px;
 }
 #input-submit {
@@ -284,7 +284,7 @@ label {
 }
   input[type=submit] {
     background: #848B9B;
-    font-family: 'Big Shoulders Text', cursive;
+    font-family: 'Big Shoulders Text', serif, "Book Antiqua", cursive;
     border-style: inset;
     border-color: #192133;
     border-top-style: dotted;
